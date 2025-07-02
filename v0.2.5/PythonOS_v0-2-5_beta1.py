@@ -206,7 +206,7 @@ def _get_filename_input(action):
 def text_editor():
     print("Welcome to the PythonOS Text Editor!")
 
-    protected_files = ["config.txt", "users.txt", "passwd.txt", "PythonOS.py", CALENDAR_FILE]
+    protected_files = ["config.txt", "users.txt", "passwd.txt", "PythonOS_v0-2-5_beta1.py", CALENDAR_FILE]
 
     while True:
         clear_screen()
@@ -799,7 +799,7 @@ Thank you.
 
 Commands:
 help - displays commands
-rest - Hard resets this PythonOS installation (all data)
+rest - Resets this PythonOS installation (deletes all data in directory)
 calc - Launches the calculator
 text - Launches the text editor
 time - Launches the live clock
