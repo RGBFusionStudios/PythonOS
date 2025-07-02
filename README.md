@@ -1,7 +1,7 @@
 # PythonOS
 This is a basic text based CLI that can be run in any Python 3 IDE or interpreter with minimal extra libraries.
 
-Keep in mind that eve though the name is PythonOS, this is not a real OS that you can flash. It is simply a script that when run, acts as a basic command line.
+Keep in mind that even though the name is PythonOS, this is not a real OS that you can flash. It is simply a script that when run, acts as a basic command line.
 
 However, you can change the initial setup function on your computer to run this file in a Python 3 IDE or interpreter upon boot. 
 
