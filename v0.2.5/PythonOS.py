@@ -1,4 +1,6 @@
-# PythonOS v0.2.5
+# /!\ WARNING /!\
+# This is an outdated version of PythonOS. Please download the latest version.
+# PythonOS v0.2.5_beta1
 # Copylefted by RGB Fusion Studios with GPL/GNU 3.0
 
 
@@ -13,7 +15,7 @@ import pygame
 # Globals
 setup_user = ''
 setup_password = ''
-version = 'v0.2.5'
+version = 'v0.2.5_beta1'
 CALENDAR_FILE = "calendar.txt"
 
 
@@ -791,7 +793,10 @@ while True:
 
 
 print("\nWelcome to PythonOS CLI ", version, '!')
-print("""
+print("""ERROR: Outdated client. 
+Please download the latest version at: www.github.com/RGBFusionStudios/PythonOS/releases
+Thank you.
+
 Commands:
 help - displays commands
 rest - Hard resets this PythonOS installation (all data)
